@@ -8,16 +8,16 @@
  Here are some screenshots of the interactive dashboard:
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/homepage.png)
+![Dashboard Overview](screenshots/homepage.PNG)
 
 ### Movies and TV series distribution
-![Movies and TV series distribution](screenshots/plot1.png)
+![Movies and TV series distribution](screenshots/plot1.PNG)
 
 ### Positive Reviews over the years
-![Positive Reviews over the years](screenshots/plot2.png)
+![Positive Reviews over the years](screenshots/plot2.PNG)
 
 ### Worldwide Distribution
-![Worldwide Distribution](screenshots/plot3.png)
+![Worldwide Distribution](screenshots/plot3.PNG)
 
 
  # How to run
