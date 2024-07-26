@@ -10,14 +10,14 @@
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/homepage.png)
 
-### Reviews Analysis
-![Reviews Analysis](screenshots/plot1.png)
+### Movies and TV series distribution
+![Movies and TV series distribution](screenshots/plot1.png)
 
-### Ratings Distribution
-![Ratings Distribution](screenshots/plot2.png)
+### Positive Reviews over the years
+![Positive Reviews over the years](screenshots/plot2.png)
 
-### Ratings Distribution
-![Ratings Distribution](screenshots/plot3.png)
+### Worldwide Distribution
+![Worldwide Distribution](screenshots/plot3.png)
 
 
  # How to run
